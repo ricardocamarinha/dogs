@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='/src/assets/dogs.svg'/></div>
+<div align='center'><img style="width:30%" src='/src/Assets/dogs.svg'/></div>
 
 <h2>About the project</h2>
 
@@ -15,6 +15,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='/src/assets/dogs-loginpage.png'/>
+<img src='/src/Assets/dogs-loginpage.png'/>
 
 </div>
