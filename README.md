@@ -4,7 +4,7 @@
 
   <p><b>Dogs</b> It's a social network for your pet.</p>
 
-## 👉 Live Demo: <a href='https://dogs-blush.vercel.app/'>Live Demo</a>
+## 👉 Live Demo: <a href='https://dogs.origamid.dev/login'>Live Demo</a>
 
 ### » Skills Used: React.
 
