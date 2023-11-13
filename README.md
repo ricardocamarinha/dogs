@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='/src/Assets/dogs.svg'/></div>
+<div align='center'><img style="width:10%" src='/src/Assets/dogs.svg'/></div>
 
 <h2>About the project</h2>
 
